@@ -1,0 +1,15 @@
+
+nsquid:S00116"QRename this field "_store" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÃÅûÿÿÿÿ
+Wsquid:S1118µ":Add a private constructor to hide the implicit public one.(‹™Çáøÿÿÿÿ
+^
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+psquid:ModifiersOrderCheck¶"EReorder the modifiers to comply with the Java Language Specification.(íö‡ÿÿÿÿÿ
+nsquid:S00117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÌ °ÿÿÿÿÿ
+Zsquid:S2589<"7Remove this expression which always evaluates to "true"(åĞµŞúÿÿÿÿ8¨é˜ı—-
+psquid:ModifiersOrderCheck·"EReorder the modifiers to comply with the Java Language Specification.(ç¡ì§şÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"VMake _storeName a static final constant or non-public and provide accessors if needed.(ùùŠ–
+xsquid:S00115¶"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(íö‡ÿÿÿÿÿ
+asquid:S1301C"KReplace this "switch" statement by "if" statements to increase readability.(±ñšx
+msquid:S00116"URename this field "_storeName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùùŠ–
+@squid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+ksquid:S00101µ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹™Çáøÿÿÿÿ

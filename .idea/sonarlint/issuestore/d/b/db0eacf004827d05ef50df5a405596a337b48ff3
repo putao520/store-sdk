@@ -1,0 +1,15 @@
+
+jsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(©Ùíú
+hsquid:CommentedOutCodeLine°"<This block of commented-out lines of code should be removed.(œšíðûÿÿÿÿ
+Bsquid:S1075;"&Remove this hard-coded path-delimiter.(ãÇº‡ùÿÿÿÿ
+Bsquid:S00108’")Either remove or fill this block of code.(”ý¾
+esquid:S2095Ÿ"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Å¼ˆÿ
+<squid:S1075#"&Remove this hard-coded path-delimiter.(¦ñö
+T
+squid:S106U"9Replace this use of System.out or System.err by a logger.(¥ºÚÄýÿÿÿÿ
+`squid:S4042z"IUse "java.nio.Files#delete" here for better messages on error conditions.(ÞúÜö
+T
+squid:S106k"9Replace this use of System.out or System.err by a logger.(¥ºÚÄýÿÿÿÿ
+osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÛì½øÿÿÿÿ
+Bsquid:S00108³")Either remove or fill this block of code.(”ý¾
+Bsquid:S1075;"&Remove this hard-coded path-delimiter.(ãÇº‡ùÿÿÿÿ
